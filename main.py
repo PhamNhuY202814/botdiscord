@@ -127,4 +127,4 @@ async def cleartn_error(ctx, error):
         await ctx.send("⚠ Vui lòng nhập số lượng hợp lệ!")
 
 # ---------------- Run Bot ----------------
-bot.run(os.getenv("TOKEN"))
+bot.run(os.getenv("MTQwNTIyMTQ0MjEyMjk0NDU3Mw.GHmxcw.vhzRl9y-EIt3UygkS_A5novmcojp5KdDCxZ6jk"))
